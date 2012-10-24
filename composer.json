@@ -1,7 +1,7 @@
 {
     "name": "tdaws/3scale_ws_api_for_php",
     "description": "3scale integration plugin for PHP applications - with composer.json",
-    "keywords": ["3scale", "ThreeScale" "api", "php", "composer"],
+    "keywords": ["3scale", "ThreeScale", "api", "php", "composer"],
     "type": "library",
     "homepage" : "https://support.3scale.net/libraries",
     "require": {
@@ -13,5 +13,5 @@
             "ThreeScaleResponse": "lib/" ,
             "3ScaleClient": "lib/"
         }
-    },
+    }
 }
